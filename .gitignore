@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Allow folders to be tracked
+!*/
+
+# Track specific file types
+!*.ipynb
+!*.py
+!README.md
+!.gitignore
+
+# Ignore virtual environment folders (commonly named)
+lrnenv/
+venv/
+.env/
