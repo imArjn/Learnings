@@ -9,6 +9,7 @@
 !*.py
 !README.md
 !.gitignore
+!requirements.txt
 
 # Ignore virtual environment folders (commonly named)
 lrnenv/

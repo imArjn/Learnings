@@ -1,0 +1,23 @@
+# Core Data Science
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+torchaudio
+
+# NLP
+nltk
+spacy
+transformers
+
+# Jupyter
+jupyter
+jupyterlab
+
+
