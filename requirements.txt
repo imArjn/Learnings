@@ -21,4 +21,5 @@ transformers
 jupyter
 jupyterlab
 
+librosa
 

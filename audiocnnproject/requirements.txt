@@ -1,2 +1,2 @@
 # version for the Audio chords classification by Eran Feit (YouTube)
-tensorflow==2.10.0
+tensorflow
