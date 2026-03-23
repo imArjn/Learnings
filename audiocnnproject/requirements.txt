@@ -1,2 +1,3 @@
 # version for the Audio chords classification by Eran Feit (YouTube)
 tensorflow
+librosa
